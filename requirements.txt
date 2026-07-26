@@ -1,0 +1,14 @@
+streamlit
+torch
+soundfile
+numpy
+librosa
+matplotlib
+num2words
+langdetect
+deep-translator
+transformers
+datasets
+moviepy
+gTTS
+whisper
